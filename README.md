@@ -22,6 +22,8 @@ In this Application customer can................................................
 
 <!-- -->
 	
-># Built By @thisisazeez
 	
-	
+# Contributors
+<a href="https://github.com/thisisazeez/flask-inventory/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=thisisazeez/flask-inventory" />
+</a>
